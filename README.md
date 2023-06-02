@@ -3,7 +3,7 @@ https://github.com/ShaneBrumback/threejs-examples-water-shader-effetcts/assets/1
 
 # Threejs Examples - Water Shader Effects
 
-This repository contains examples of animating 3D objects and using fragment shaders with Three.js. These examples showcase the capabilities of Three.js and demonstrate how to create engaging and interactive 3D graphics on the web.
+This repository contains examples of water shader effects with Three.js. These examples showcase the capabilities of Three.js and demonstrate how to create engaging and interactive 3D graphics on the web.
 
 ## Table of Contents
 - [Examples](#examples)
