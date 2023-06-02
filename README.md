@@ -1,7 +1,5 @@
 
-
-
-https://github.com/ShaneBrumback/threejs-examples-animating-3d-objects-and-custom-fragment-shaders/assets/106123592/0694a2d7-aa37-4249-b189-4ef639034f36
+https://github.com/ShaneBrumback/threejs-examples-water-shader-effetcts/assets/106123592/88091393-3519-46ae-a9d6-e7bdb333b0a9
 
 # Threejs Examples - Water Shader Effects
 
